@@ -1,0 +1,9 @@
+ppa:kubuntu-ppa/backports
+ppa:kubuntu-ci/unstable-weekly
+ppa:webupd8team/haguichi
+ppa:nilarimogard/webupd8
+ppa:mc3man/trusty-media
+ppa:linrunner/tlp
+ppa:alessandro-strada/ppa
+ppa:webupd8team/unstable
+ppa:webupd8team/atom
